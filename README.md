@@ -1,6 +1,6 @@
 # DeFather AI Assistant Platform
 
-![DeFather Logo](public/logo.png)
+![DeFather Logo](public/defather.png)
 
 ## Overview
 
